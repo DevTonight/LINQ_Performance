@@ -1,0 +1,7 @@
+/home/matthew/Projects/LINQ_Performance/LINQ_Performance/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/matthew/Projects/LINQ_Performance/LINQ_Performance/bin/Debug/StandardObjects.dll
+/home/matthew/Projects/LINQ_Performance/LINQ_Performance/bin/Debug/StandardObjects.dll.mdb
+/home/matthew/Projects/LINQ_Performance/LINQ_Performance/bin/Debug/LINQ_Performance.exe.mdb
+/home/matthew/Projects/LINQ_Performance/LINQ_Performance/bin/Debug/LINQ_Performance.exe
+/home/matthew/Projects/LINQ_Performance/LINQ_Performance/obj/x86/Debug/LINQ_Performance.exe
+/home/matthew/Projects/LINQ_Performance/LINQ_Performance/obj/x86/Debug/LINQ_Performance.exe.mdb
