@@ -1,7 +1,7 @@
-/home/matthew/Projects/LINQ_Performance/LINQ_Performance/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/matthew/Projects/LINQ_Performance/LINQ_Performance/bin/Release/LINQ_Performance.exe.mdb
-/home/matthew/Projects/LINQ_Performance/LINQ_Performance/bin/Release/LINQ_Performance.exe
-/home/matthew/Projects/LINQ_Performance/LINQ_Performance/obj/x86/Release/LINQ_Performance.exe
-/home/matthew/Projects/LINQ_Performance/LINQ_Performance/obj/x86/Release/LINQ_Performance.exe.mdb
-/home/matthew/Projects/LINQ_Performance/LINQ_Performance/bin/Release/StandardObjects.dll
-/home/matthew/Projects/LINQ_Performance/LINQ_Performance/bin/Release/StandardObjects.dll.mdb
+/home/matthew/git/LINQ_Performance/LINQ_Performance/LINQ_Performance/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/matthew/git/LINQ_Performance/LINQ_Performance/LINQ_Performance/bin/Release/LINQ_Performance.exe.mdb
+/home/matthew/git/LINQ_Performance/LINQ_Performance/LINQ_Performance/bin/Release/LINQ_Performance.exe
+/home/matthew/git/LINQ_Performance/LINQ_Performance/LINQ_Performance/obj/x86/Release/LINQ_Performance.exe
+/home/matthew/git/LINQ_Performance/LINQ_Performance/LINQ_Performance/obj/x86/Release/LINQ_Performance.exe.mdb
+/home/matthew/git/LINQ_Performance/LINQ_Performance/LINQ_Performance/bin/Release/StandardObjects.dll
+/home/matthew/git/LINQ_Performance/LINQ_Performance/LINQ_Performance/bin/Release/StandardObjects.dll.mdb

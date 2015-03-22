@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Performance", "LINQ_Performance\LINQ_Performance.csproj", "{B027BB6C-BBB3-47F6-A976-DE25A299C242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardObjects", "..\..\git\StandardObjects\StandardObjects\StandardObjects.csproj", "{342DCD5B-297F-4D87-8E05-788241D646E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardObjects", "..\..\StandardObjects\StandardObjects\StandardObjects.csproj", "{342DCD5B-297F-4D87-8E05-788241D646E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

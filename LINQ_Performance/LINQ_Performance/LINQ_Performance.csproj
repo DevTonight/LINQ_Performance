@@ -38,7 +38,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\..\..\git\StandardObjects\StandardObjects\StandardObjects.csproj">
+    <ProjectReference Include="..\..\..\StandardObjects\StandardObjects\StandardObjects.csproj">
       <Project>{342DCD5B-297F-4D87-8E05-788241D646E5}</Project>
       <Name>StandardObjects</Name>
     </ProjectReference>
